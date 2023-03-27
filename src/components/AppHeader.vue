@@ -20,15 +20,6 @@ export default {
       con lo / iniziale -->
       <img src="/img/la-molisana-logo.png" alt="">
     </div>
-
-    <div class="row">
-      <div class="col">
-        ciao
-      </div>
-      <div class="col">
-        ciao
-      </div>
-    </div>
     
     <nav id="links">
       <ul>
